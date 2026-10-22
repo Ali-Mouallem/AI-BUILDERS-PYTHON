@@ -1,8 +1,7 @@
 i=1
-
 while i<6:
     print(i)
-    if (i==3):
+    if i==3:
         break # exits the loop when i is equal to 3
     i+=1
 
